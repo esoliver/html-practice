@@ -1,0 +1,24 @@
+html, body {
+    background: #b6abf7;
+
+    margin: 1;
+}
+
+h1 {
+    font: 1.4em Verdana, Geneva, sans-serif;
+    margin-bottom: .1em;
+    background-color: #b6abf7;
+    text-align: center;
+    color: white;
+}
+
+h2 {
+    font: 0.8em Verdana, Geneva, sans-serif;
+    margin-bottom: .8em;
+    background-color: #b6abf7;
+    text-align: center;
+}
+
+body {
+    background-color: white;
+}
